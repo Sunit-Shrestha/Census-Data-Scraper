@@ -1,6 +1,7 @@
 {
 	"Taplejung": {
 		"id": 1,
+		"province": 1,
 		"municipalities": {
 			"Phaktanlung Gaunpalika": 1,
 			"Mikwakhola Gaunpalika": 2,
@@ -15,6 +16,7 @@
 	},
 	"Sankhuwasabha": {
 		"id": 2,
+		"province": 1,
 		"municipalities": {
 			"Bhotkhola Gaunpalika": 1,
 			"Makalu Gaunpalika": 2,
@@ -30,6 +32,7 @@
 	},
 	"Solukhumbu": {
 		"id": 3,
+		"province": 1,
 		"municipalities": {
 			"Khumbu Pasanglhamu Gaunpalika": 1,
 			"Mahakulung Gaunpalika": 2,
@@ -43,6 +46,7 @@
 	},
 	"Okhaldhunga": {
 		"id": 4,
+		"province": 1,
 		"municipalities": {
 			"Chishankhu Gadhi Gaunpalika": 1,
 			"Siddhicharan Municipality": 2,
@@ -56,6 +60,7 @@
 	},
 	"Khotang": {
 		"id": 5,
+		"province": 1,
 		"municipalities": {
 			"Kepilasgadhi Gaunpalika": 1,
 			"Aiselukharka Gaunpalika": 2,
@@ -71,6 +76,7 @@
 	},
 	"Bhojpur": {
 		"id": 6,
+		"province": 1,
 		"municipalities": {
 			"Shadananda Municipality": 1,
 			"Salpa Silichho Gaunpalika": 2,
@@ -85,6 +91,7 @@
 	},
 	"Dhankuta": {
 		"id": 7,
+		"province": 1,
 		"municipalities": {
 			"Mahalaxmi Municipality": 1,
 			"Pakhribas Municipality": 2,
@@ -97,6 +104,7 @@
 	},
 	"Terhathum": {
 		"id": 8,
+		"province": 1,
 		"municipalities": {
 			"Aatharai Gaunpalika": 1,
 			"Phedap Gaunpalika": 2,
@@ -108,6 +116,7 @@
 	},
 	"Panchthar": {
 		"id": 9,
+		"province": 1,
 		"municipalities": {
 			"Yangbarak Gaunpalika": 1,
 			"Hilihan Gaunpalika": 2,
@@ -121,6 +130,7 @@
 	},
 	"Ilam": {
 		"id": 10,
+		"province": 1,
 		"municipalities": {
 			"Mai Jogmai Gaunpalika": 1,
 			"Sandakpur Gaunpalika": 2,
@@ -136,6 +146,7 @@
 	},
 	"Jhapa": {
 		"id": 11,
+		"province": 1,
 		"municipalities": {
 			"Mechinagar Municipality": 1,
 			"Buddhashanti Gaunpalika": 2,
@@ -156,6 +167,7 @@
 	},
 	"Morang": {
 		"id": 12,
+		"province": 1,
 		"municipalities": {
 			"Miklajung Gaunpalika": 1,
 			"Letang Municipality": 2,
@@ -178,6 +190,7 @@
 	},
 	"Sunsari": {
 		"id": 13,
+		"province": 1,
 		"municipalities": {
 			"Dharan Sub-Metropolitian City": 1,
 			"Barahachhetra Municipality": 2,
@@ -195,6 +208,7 @@
 	},
 	"Udayapur": {
 		"id": 14,
+		"province": 1,
 		"municipalities": {
 			"Belaka Municipality": 1,
 			"Chaudandigadhi Municipality": 2,
@@ -208,6 +222,7 @@
 	},
 	"Saptari": {
 		"id": 15,
+		"province": 2,
 		"municipalities": {
 			"Saptakoshi Municipality": 1,
 			"Kanchanrup Municipality": 2,
@@ -231,6 +246,7 @@
 	},
 	"Siraha": {
 		"id": 16,
+		"province": 2,
 		"municipalities": {
 			"Lahan Municipality": 1,
 			"Dhangadhimai Municipality": 2,
@@ -253,6 +269,7 @@
 	},
 	"Dhanusa": {
 		"id": 17,
+		"province": 2,
 		"municipalities": {
 			"Ganeshman Charnath Municipality": 1,
 			"Dhanushadham Municipality": 2,
@@ -276,6 +293,7 @@
 	},
 	"Mahottari": {
 		"id": 18,
+		"province": 2,
 		"municipalities": {
 			"Bardibas Municipality": 1,
 			"Gaushala Municipality": 2,
@@ -296,6 +314,7 @@
 	},
 	"Sarlahi": {
 		"id": 19,
+		"province": 2,
 		"municipalities": {
 			"Lalbandi Municipality": 1,
 			"Hariwan Municipality": 2,
@@ -321,6 +340,7 @@
 	},
 	"Rautahat": {
 		"id": 20,
+		"province": 2,
 		"municipalities": {
 			"Chandrapur Municipality": 1,
 			"Gujara Municipality": 2,
@@ -344,6 +364,7 @@
 	},
 	"Bara": {
 		"id": 21,
+		"province": 2,
 		"municipalities": {
 			"Nijagadh Municipality": 1,
 			"Kolhabi Municipality": 2,
@@ -365,6 +386,7 @@
 	},
 	"Parsa": {
 		"id": 22,
+		"province": 2,
 		"municipalities": {
 			"Thori Gaunpalika": 1,
 			"Jirabhawani Gaunpalika": 2,
@@ -384,6 +406,7 @@
 	},
 	"Dolakha": {
 		"id": 23,
+		"province": 3,
 		"municipalities": {
 			"Gaurishankar Gaunpalika": 1,
 			"Bigu Gaunpalika": 2,
@@ -398,6 +421,7 @@
 	},
 	"Sindhupalchok": {
 		"id": 24,
+		"province": 3,
 		"municipalities": {
 			"Bhotekoshi Gaunpalika": 1,
 			"Jugal Gaunpalika": 2,
@@ -415,6 +439,7 @@
 	},
 	"Rasuwa": {
 		"id": 25,
+		"province": 3,
 		"municipalities": {
 			"Gosaikunda Gaunpalika": 1,
 			"Aamachhodingmo Gaunpalika": 2,
@@ -425,6 +450,7 @@
 	},
 	"Dhading": {
 		"id": 26,
+		"province": 3,
 		"municipalities": {
 			"Rubi Valley Gaunpalika": 1,
 			"Khaniyabas Gaunpalika": 2,
@@ -443,6 +469,7 @@
 	},
 	"Nuwakot": {
 		"id": 27,
+		"province": 3,
 		"municipalities": {
 			"Dupcheshwor Gaunpalika": 1,
 			"Tadi Gaunpalika": 2,
@@ -460,6 +487,7 @@
 	},
 	"Kathmandu": {
 		"id": 28,
+		"province": 3,
 		"municipalities": {
 			"Shankharapur Municipality": 1,
 			"Kageshwori Manahara Municipality": 2,
@@ -476,6 +504,7 @@
 	},
 	"Bhaktapur": {
 		"id": 29,
+		"province": 3,
 		"municipalities": {
 			"Changunarayan Municipality": 1,
 			"Bhaktapur Municipality": 2,
@@ -485,6 +514,7 @@
 	},
 	"Lalitpur": {
 		"id": 30,
+		"province": 3,
 		"municipalities": {
 			"Mahalaxmi Municipality": 1,
 			"Lalitpur Metropolitian City": 2,
@@ -496,6 +526,7 @@
 	},
 	"Kavrepalanchok": {
 		"id": 31,
+		"province": 3,
 		"municipalities": {
 			"Chauri Deurali Gaunpalika": 1,
 			"Bhumlu Gaunpalika": 2,
@@ -514,6 +545,7 @@
 	},
 	"Ramechhap": {
 		"id": 32,
+		"province": 3,
 		"municipalities": {
 			"Umakunda Gaunpalika": 1,
 			"Gokulganga Gaunpalika": 2,
@@ -527,6 +559,7 @@
 	},
 	"Sindhuli": {
 		"id": 33,
+		"province": 3,
 		"municipalities": {
 			"Dudhouli Municipality": 1,
 			"Phikkal Gaunpalika": 2,
@@ -541,6 +574,7 @@
 	},
 	"Makwanpur": {
 		"id": 34,
+		"province": 3,
 		"municipalities": {
 			"Indrasarowar Gaunpalika": 1,
 			"Thaha Municipality": 2,
@@ -556,6 +590,7 @@
 	},
 	"Chitawan": {
 		"id": 35,
+		"province": 3,
 		"municipalities": {
 			"Rapti Municipality": 1,
 			"Kalika Municipality": 2,
@@ -568,6 +603,7 @@
 	},
 	"Gorkha": {
 		"id": 36,
+		"province": 4,
 		"municipalities": {
 			"Chumanubri Gaunpalika": 1,
 			"Ajirkot Gaunpalika": 2,
@@ -584,6 +620,7 @@
 	},
 	"Manang": {
 		"id": 37,
+		"province": 4,
 		"municipalities": {
 			"Narpa Bhumi Gaunpalika": 1,
 			"Manang Ngisyang Gaunpalika": 2,
@@ -593,6 +630,7 @@
 	},
 	"Mustang": {
 		"id": 38,
+		"province": 4,
 		"municipalities": {
 			"Lo Ghekar Damodarkunda Gaunpalika": 1,
 			"Gharpajhong Gaunpalika": 2,
@@ -603,12 +641,14 @@
 	},
 	"Myagdi": {
 		"id": 39,
+		"province": 4,
 		"municipalities": {
 			"Annapurna Gaunpalika": 1
 		}
 	},
 	"Kaski": {
 		"id": 40,
+		"province": 4,
 		"municipalities": {
 			"Madi Gaunpalika": 1,
 			"Machhapuchchhre Gaunpalika": 2,
@@ -619,6 +659,7 @@
 	},
 	"Lamjung": {
 		"id": 41,
+		"province": 4,
 		"municipalities": {
 			"Dordi Gaunpalika": 1,
 			"Marshyangdi Gaunpalika": 2,
@@ -632,6 +673,7 @@
 	},
 	"Tanahu": {
 		"id": 42,
+		"province": 4,
 		"municipalities": {
 			"Bhanu Municipality": 1,
 			"Byas Municipality": 2,
@@ -647,6 +689,7 @@
 	},
 	"Nawalparasi (Bardaghat Susta East)": {
 		"id": 43,
+		"province": 4,
 		"municipalities": {
 			"Gaidakot Municipality": 1,
 			"Bulingtar Gaunpalika": 2,
@@ -660,6 +703,7 @@
 	},
 	"Syangja": {
 		"id": 44,
+		"province": 4,
 		"municipalities": {
 			"Putalibazar Municipality": 1,
 			"Phedikhola Gaunpalika": 2,
@@ -676,6 +720,7 @@
 	},
 	"Parbat": {
 		"id": 45,
+		"province": 4,
 		"municipalities": {
 			"Modi Gaunpalika": 1,
 			"Jaljala Gaunpalika": 2,
@@ -688,6 +733,7 @@
 	},
 	"Baglung": {
 		"id": 46,
+		"province": 4,
 		"municipalities": {
 			"Baglung Municipality": 1,
 			"Kathekhola Gaunpalika": 2,
@@ -703,6 +749,7 @@
 	},
 	"Rukum (East)": {
 		"id": 47,
+		"province": 5,
 		"municipalities": {
 			"Putha Uttanganga Gaunpalika": 1,
 			"Sisne Gaunpalika": 2,
@@ -711,6 +758,7 @@
 	},
 	"Rolpa": {
 		"id": 48,
+		"province": 5,
 		"municipalities": {
 			"Sunchhahari Gaunpalika": 1,
 			"Thawang Gaunpalika": 2,
@@ -726,6 +774,7 @@
 	},
 	"Pyuthan": {
 		"id": 49,
+		"province": 5,
 		"municipalities": {
 			"Gaumukhi Gaunpalika": 1,
 			"Naubahini Gaunpalika": 2,
@@ -740,6 +789,7 @@
 	},
 	"Gulmi": {
 		"id": 50,
+		"province": 5,
 		"municipalities": {
 			"Kali Gandaki Gaunpalika": 1,
 			"Satyawoti Gaunpalika": 2,
@@ -757,6 +807,7 @@
 	},
 	"Arghakhanchi": {
 		"id": 51,
+		"province": 5,
 		"municipalities": {
 			"Chhatradev Gaunpalika": 1,
 			"Malarani Gaunpalika": 2,
@@ -768,6 +819,7 @@
 	},
 	"Palpa": {
 		"id": 52,
+		"province": 5,
 		"municipalities": {
 			"Rampur Municipality": 1,
 			"Purbakhola Gaunpalika": 2,
@@ -781,6 +833,7 @@
 	},
 	"Nawalparasi (Bardaghat Susta West)": {
 		"id": 53,
+		"province": 5,
 		"municipalities": {
 			"Bardaghat Municipality": 1,
 			"Sunawal Municipality": 2,
@@ -793,6 +846,7 @@
 	},
 	"Rupandehi": {
 		"id": 54,
+		"province": 5,
 		"municipalities": {
 			"Devdaha Municipality": 1,
 			"Butwal Sub-Metropolitian City": 2,
@@ -814,6 +868,7 @@
 	},
 	"Kapilbastu": {
 		"id": 55,
+		"province": 5,
 		"municipalities": {
 			"Banganga Municipality": 1,
 			"Buddhabhumi Municipality": 2,
@@ -829,6 +884,7 @@
 	},
 	"Dang": {
 		"id": 56,
+		"province": 5,
 		"municipalities": {
 			"Bangalachuli Gaunpalika": 1,
 			"Ghorahi Sub-Metropolitian City": 2,
@@ -844,6 +900,7 @@
 	},
 	"Banke": {
 		"id": 57,
+		"province": 5,
 		"municipalities": {
 			"Rapti Sonari Gaunpalika": 1,
 			"Kohalpur Municipality": 2,
@@ -857,6 +914,7 @@
 	},
 	"Bardiya": {
 		"id": 58,
+		"province": 5,
 		"municipalities": {
 			"Bansgadhi Municipality": 1,
 			"Barbardiya Municipality": 2,
@@ -870,6 +928,7 @@
 	},
 	"Dolpa": {
 		"id": 59,
+		"province": 6,
 		"municipalities": {
 			"Dolpo Buddha Gaunpalika": 1,
 			"Shey Phoksundo Gaunpalika": 2,
@@ -883,6 +942,7 @@
 	},
 	"Mugu": {
 		"id": 60,
+		"province": 6,
 		"municipalities": {
 			"Mugumakarmarog Gaunpalika": 1,
 			"Chhayanath Rara Municipality": 2,
@@ -892,6 +952,7 @@
 	},
 	"Humla": {
 		"id": 61,
+		"province": 6,
 		"municipalities": {
 			"Chankheli Gaunpalika": 1,
 			"Kharpunath Gaunpalika": 2,
@@ -904,6 +965,7 @@
 	},
 	"Jumla": {
 		"id": 62,
+		"province": 6,
 		"municipalities": {
 			"Patarasi Gaunpalika": 1,
 			"Kanaka Sundari Gaunpalika": 2,
@@ -917,6 +979,7 @@
 	},
 	"Kalikot": {
 		"id": 63,
+		"province": 6,
 		"municipalities": {
 			"Palata Gaunpalika": 1,
 			"Pachal Jharana Gaunpalika": 2,
@@ -931,6 +994,7 @@
 	},
 	"Dailekh": {
 		"id": 64,
+		"province": 6,
 		"municipalities": {
 			"Naumule Gaunpalika": 1,
 			"Mahabu Gaunpalika": 2,
@@ -947,6 +1011,7 @@
 	},
 	"Jajarkot": {
 		"id": 65,
+		"province": 6,
 		"municipalities": {
 			"Barekot Gaunpalika": 1,
 			"Kuse Gaunpalika": 2,
@@ -959,6 +1024,7 @@
 	},
 	"Rukum (West)": {
 		"id": 66,
+		"province": 6,
 		"municipalities": {
 			"Aathabisakot Municipality": 1,
 			"Sanibheri Gaunpalika": 2,
@@ -970,6 +1036,7 @@
 	},
 	"Salyan": {
 		"id": 67,
+		"province": 6,
 		"municipalities": {
 			"Darma Gaunpalika": 1,
 			"Kumakh Gaunpalika": 2,
@@ -985,6 +1052,7 @@
 	},
 	"Surkhet": {
 		"id": 68,
+		"province": 6,
 		"municipalities": {
 			"Simta Gaunpalika": 1,
 			"Chingad Gaunpalika": 2,
@@ -999,6 +1067,7 @@
 	},
 	"Bajura": {
 		"id": 69,
+		"province": 7,
 		"municipalities": {
 			"Himali Gaunpalika": 1,
 			"Gaumul Gaunpalika": 2,
@@ -1013,6 +1082,7 @@
 	},
 	"Bajhang": {
 		"id": 70,
+		"province": 7,
 		"municipalities": {
 			"Saipal Gaunpalika": 1,
 			"Bungal Municipality": 2,
@@ -1030,6 +1100,7 @@
 	},
 	"Darchula": {
 		"id": 71,
+		"province": 7,
 		"municipalities": {
 			"Byas Gaunpalika": 1,
 			"Duhun Gaunpalika": 2,
@@ -1044,6 +1115,7 @@
 	},
 	"Baitadi": {
 		"id": 72,
+		"province": 7,
 		"municipalities": {
 			"Dilasaini Gaunpalika": 1,
 			"Dogada Kedar Gaunpalika": 2,
@@ -1059,6 +1131,7 @@
 	},
 	"Dadeldhura": {
 		"id": 73,
+		"province": 7,
 		"municipalities": {
 			"Nawadurga Gaunpalika": 1,
 			"Amargadhi Municipality": 2,
@@ -1071,6 +1144,7 @@
 	},
 	"Doti": {
 		"id": 74,
+		"province": 7,
 		"municipalities": {
 			"Purbichouki Gaunpalika": 1,
 			"Sayal Gaunpalika": 2,
@@ -1085,6 +1159,7 @@
 	},
 	"Achham": {
 		"id": 75,
+		"province": 7,
 		"municipalities": {
 			"Panchdebal Binayak Municipality": 1,
 			"Ramaroshan Gaunpalika": 2,
@@ -1100,6 +1175,7 @@
 	},
 	"Kailali": {
 		"id": 76,
+		"province": 7,
 		"municipalities": {
 			"Mohanyal Gaunpalika": 1,
 			"Chure Gaunpalika": 2,
@@ -1118,6 +1194,7 @@
 	},
 	"Kanchanpur": {
 		"id": 77,
+		"province": 7,
 		"municipalities": {
 			"Krishnapur Municipality": 1,
 			"Shuklaphanta Municipality": 2,

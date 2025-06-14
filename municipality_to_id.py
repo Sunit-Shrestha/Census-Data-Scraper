@@ -23,7 +23,7 @@ for district in range(1, 78):
 		divs = soup.find_all("div", class_="select__single-value")
 		names = [div.text for div in divs]
 		if mun == 1:
-			list[names[1]] = {"id": district, "municipalities":{}}
+			list[names[1]] = {"id": district, "province": province, "municipalities":{}}
 		list[names[1]]["municipalities"][names[2]] = mun
 		print(names[2], " ", mun, " ", names[1], " ", district)
 		mun += 1
