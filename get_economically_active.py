@@ -17,7 +17,7 @@ def get_emp(row):
 	}
 	json_data = requests.get(emp_link, params=params).json()
 	econ_data = json_data["data"]["economicActivity"]["economicType"]
-	return int(econ_data["series"][0] * 1000/ econ_data["total"]) / 10
+	return int(econ_data["series"][0] * 1000 / econ_data["total"]) / 10
 
 empdf = df.apply(get_emp, axis=1)
 empdf.to_csv("employment.csv", header=None, index=None)
