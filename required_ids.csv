@@ -37,7 +37,7 @@ Khandabari,Sankhuwasabha,1,2,6
 Kirtipur,Kathmandu,3,28,9
 Lahan,Siraha,2,16,1
 Lalitpur,Lalitpur,3,30,2
-Lekhnath,Kaski,4,40,-1
+Lekhnath,Kaski,4,40,4
 Madhyapur,Bhaktapur,3,29,3
 Malangawa,Sarlahi,2,19,20
 Mechinagar,Jhapa,1,11,1
@@ -58,7 +58,7 @@ Tulsipur,Dang,5,56,3
 Walling,Syangja,4,44,9
 Aanbu Khaireni,Tanahu,4,42,10
 Api,Darchula,7,71,5
-Atariya,Kailali,7,76,-1
+Atariya,Kailali,7,76,3
 Banganga,Kapilbastu,5,55,1
 Badimalika,Bajura,7,69,6
 Bagachour,Salyan,6,67,5
@@ -67,7 +67,7 @@ Bansgadhi,Bardiya,5,58,1
 Bardibas,Mahottari,2,18,1
 Belouri,Kanchanpur,7,77,8
 Belbari,Morang,1,12,5
-Beni,Myagdi,4,39,-1
+Beni,Myagdi,4,39,6
 Bensishahar,Lamjung,4,41,5
 Bhajani,Kailali,7,76,11
 Bheriganga,Surkhet,6,68,5
@@ -92,7 +92,7 @@ Kolhabi,Bara,2,21,2
 Kushma,Parbat,4,45,3
 Lamahi,Dang,5,56,7
 Lamki Chuha,Kailali,7,76,7
-Liwang,Rolpa,5,48,-1
+Liwang,Rolpa,5,48,7
 Madhya Bindu,Nawalparasi (Bardaghat Susta East),4,43,7
 Mangalsen,Achham,7,75,6
 Manthali,Ramechhap,3,32,5
@@ -110,9 +110,9 @@ Rangeli,Morang,1,12,11
 Rapti,Chitawan,3,35,1
 Resunga,Gulmi,5,50,9
 Sainamaina,Rupandehi,5,54,3
-Sanoshree,Bardiya,5,58,-1
+Sanoshree,Bardiya,5,58,6
 Sanphebagar,Achham,7,75,4
-Shani,Jhapa,1,11,-1
+Shani,Jhapa,1,11,3
 Sharada,Salyan,6,67,7
 Shivaraj,Kapilbastu,5,55,3
-Suvaghat,Surkhet,6,68,-1
+Suvaghat,Surkhet,6,68,4
